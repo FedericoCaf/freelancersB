@@ -1,0 +1,28 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+//General
+@import './general';
+
+@import './edit';
+
+@import './sponsor';
+
+@import './riepilogo';
+
+@import './dashboard';
+
+@import './navbar';
+
+@import './userProfile';
+
+.nav-item{
+    list-style: none;
+}
